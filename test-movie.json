@@ -1,0 +1,8 @@
+{
+  "title": "Test Movie 2",
+  "releaseDate": "2023-01-01T00:00:00Z",
+  "genre": "Action",
+  "distributor": "Test Distributor",
+  "budget": 1000000,
+  "mpaRating": "PG-13"
+}
